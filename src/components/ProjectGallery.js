@@ -53,9 +53,12 @@ const ProjectGallery = () => {
             } catch (err) {
                 console.error('Error fetching GitHub repos:', err);
                 // If we have local data, we don't show the error to the user
-                if (repos.length === 0) {
-                    setError(err.message);
-                }
+                setRepos(prevRepos => {
+                    if (prevRepos.length === 0) {
+                        setError(err.message);
+                    }
+                    return prevRepos;
+                });
                 setLoading(false);
             }
         };
@@ -102,24 +105,7 @@ const ProjectGallery = () => {
         );
     }
 
-    const getFallbackImage = (repo) => {
-        const keywords = ['code', 'software', 'technology', 'web', 'program', 'developer'];
-        const name = (repo.name || '').toLowerCase();
-        const lang = (repo.language || '').toLowerCase();
 
-        let query = 'coding';
-        if (name.includes('chat')) query = 'communication';
-        else if (name.includes('note')) query = 'notebook';
-        else if (name.includes('news')) query = 'newspaper';
-        else if (name.includes('travel')) query = 'travel';
-        else if (name.includes('mazdoor') || name.includes('work')) query = 'worker';
-        else if (lang === 'javascript' || lang === 'react') query = 'javascript';
-        else if (lang === 'java') query = 'java-code';
-        else if (lang === 'python') query = 'python-code';
-        else query = keywords[repo.id % keywords.length];
-
-        return `https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop&sig=${repo.id}`;
-    };
 
     const getThematicImage = (repo) => {
         if (repo.image) return repo.image;

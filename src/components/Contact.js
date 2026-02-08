@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { FaEnvelope, FaUser, FaPaperPlane, FaLinkedin, FaGithub } from 'react-icons/fa';
+import { FaEnvelope, FaUser, FaPaperPlane, FaLinkedin } from 'react-icons/fa';
 import { SiLeetcode } from 'react-icons/si';
 import emailjs from '@emailjs/browser';
 import { personalInfo, emailConfig } from '../data';

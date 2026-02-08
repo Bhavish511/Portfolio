@@ -1,17 +1,18 @@
 import React from 'react';
 import {
-    FaReact, FaJs, FaNode, FaDatabase, FaGitAlt, FaMobile, FaGem,
-    FaBriefcase, FaMapMarkerAlt, FaCode, FaPalette, FaPaintBrush,
-    FaPlug, FaEnvelope, FaUser, FaPaperPlane, FaDownload,
-    FaGithub, FaLinkedin, FaTwitter, FaFacebook, FaPython, FaJava,
+    FaReact, FaJs, FaNode, FaMobile,
+    FaCode, FaPalette, FaPaintBrush,
+    FaPlug,
+    FaGithub, FaLinkedin,
+    FaPython, FaJava,
     FaAws, FaDocker, FaJenkins, FaLinux, FaStripe
 } from 'react-icons/fa';
 import {
-    SiMongodb, SiRubyonrails, SiNodedotjs, SiReact, SiTypescript,
+    SiMongodb, SiNodedotjs, SiReact, SiTypescript,
     SiNestjs, SiExpress, SiKubernetes, SiMysql,
     SiPostgresql, SiRedis, SiSequelize, SiTypeorm, SiMongoose,
     SiPostman, SiSwagger, SiTrello, SiGithubactions,
-    SiBitbucket, SiGo, SiCplusplus, SiJson, SiLeetcode
+    SiGo, SiCplusplus, SiJson, SiLeetcode
 } from 'react-icons/si';
 import { VscVscode } from 'react-icons/vsc';
 
@@ -19,7 +20,7 @@ import { VscVscode } from 'react-icons/vsc';
 export const personalInfo = {
     name: "Bhavish Kumar",
     title: "Software Engineer",
-    email: "Bhavishsindhi3@gmail.com", // TODO: Update email
+    email: "Bhavishsindhi3@gmail.com",
     summary: [
         "Passionate Full-Stack Developer with expertise in building scalable web applications using the MERN stack.",
         "Experienced in React, Node.js, and modern CSS frameworks to deliver high-performance user interfaces.",
@@ -141,7 +142,7 @@ export const experience = [
     //     type: 'current'
     // },
     {
-        title: 'NodeJs Developer',
+        title: 'Backend Developer',
         company: 'The Coding Buzz',
         location: 'Karachi, Pakistan',
         period: 'June 2025 - Present',
