@@ -1,0 +1,162 @@
+[
+  {
+    "id": 910858498,
+    "name": "Travel-Recommendation-App",
+    "description": null,
+    "stargazers_count": 1,
+    "language": "HTML",
+    "html_url": "https://github.com/Bhavish511/Travel-Recommendation-App",
+    "homepage": null,
+    "image": null
+  },
+  {
+    "id": 1145179215,
+    "name": "LMS",
+    "description": null,
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Bhavish511/LMS",
+    "homepage": "https://lms-react-inky.vercel.app",
+    "image": null
+  },
+  {
+    "id": 1145493065,
+    "name": "Mazdoor-Connect",
+    "description": "Mazdoor Connect is a hyper-local service marketplace designed to bridge the gap between skilled workers and customers in Pakistan. Our platform focuses on security through police verification and t...",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Bhavish511/Mazdoor-Connect",
+    "homepage": "https://mazdoor-connect-ruby.vercel.app",
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6954?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": 1142770384,
+    "name": "Trello-clone",
+    "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Bhavish511/Trello-clone",
+    "homepage": null,
+    "image": null
+  },
+  {
+    "id": 1138942373,
+    "name": "iNoteBook",
+    "description": "iNotebook is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to let users securely manage their personal notes on the cloud. It features a robust authentication system, re...",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Bhavish511/iNoteBook",
+    "homepage": null,
+    "image": null
+  },
+  {
+    "id": 1137077329,
+    "name": "React-NewsApp",
+    "description": "![License](https://img.shields.io/badge/license-MIT-blue.svg)",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Bhavish511/React-NewsApp",
+    "homepage": null,
+    "image": null
+  },
+  {
+    "id": 1134562384,
+    "name": "React-TextUtils",
+    "description": "TextUtils is a React-based single-page application (SPA) that provides a simple and efficient way to analyze and manipulate text. Whether you need to count words, convert text case, or remove extra...",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Bhavish511/React-TextUtils",
+    "homepage": "https://bhavish511.github.io/React-TextUtils/",
+    "image": null
+  },
+  {
+    "id": 1052563807,
+    "name": "Verfy",
+    "description": "[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456",
+    "stargazers_count": 0,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Bhavish511/Verfy",
+    "homepage": null,
+    "image": "https://opencollective.com/nest/backers/badge.svg"
+  },
+  {
+    "id": 986942241,
+    "name": "Volunteer-Connect",
+    "description": "A full-stack web application for managing volunteer requests, organization dashboards, and user profiles.",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Bhavish511/Volunteer-Connect",
+    "homepage": null,
+    "image": null
+  },
+  {
+    "id": 726540261,
+    "name": "Database-project-",
+    "description": "A responsive, full-featured e-commerce web application built using HTML, CSS, JavaScript, and Handlebars with Node.js backend. The project includes a shopping cart, product views, checkout process,...",
+    "stargazers_count": 0,
+    "language": "Handlebars",
+    "html_url": "https://github.com/Bhavish511/Database-project-",
+    "homepage": null,
+    "image": null
+  },
+  {
+    "id": 986947261,
+    "name": "Tixify",
+    "description": "A full-stack web application for browsing, booking, and managing event tickets.",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Bhavish511/Tixify",
+    "homepage": null,
+    "image": null
+  },
+  {
+    "id": 992828565,
+    "name": "Chat_Application",
+    "description": "Chat-Application Client Server communication.",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Bhavish511/Chat_Application",
+    "homepage": null,
+    "image": null
+  },
+  {
+    "id": 971903122,
+    "name": "Inventory-management",
+    "description": "Inventory-management deployment on AWS EC2 Instance",
+    "stargazers_count": 0,
+    "language": "Handlebars",
+    "html_url": "https://github.com/Bhavish511/Inventory-management",
+    "homepage": null,
+    "image": null
+  },
+  {
+    "id": 928495582,
+    "name": "Book_recommendation_system",
+    "description": "This repository contains the implementation of a **Book Recommendation System** using **Neural Networks** and **Convolutional Neural Networks (CNNs)**. The system classifies books as \"Recommend\" or...",
+    "stargazers_count": 0,
+    "language": "Jupyter Notebook",
+    "html_url": "https://github.com/Bhavish511/Book_recommendation_system",
+    "homepage": null,
+    "image": null
+  },
+  {
+    "id": 894007740,
+    "name": "WeatherApp-master",
+    "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Bhavish511/WeatherApp-master",
+    "homepage": null,
+    "image": null
+  },
+  {
+    "id": 853171906,
+    "name": "TIC-TAC-TOE",
+    "description": null,
+    "stargazers_count": 0,
+    "language": "C",
+    "html_url": "https://github.com/Bhavish511/TIC-TAC-TOE",
+    "homepage": null,
+    "image": null
+  }
+]
