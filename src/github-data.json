@@ -30,16 +30,6 @@
     "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6954?q=80&w=2070&auto=format&fit=crop"
   },
   {
-    "id": 1142770384,
-    "name": "Trello-clone",
-    "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-    "stargazers_count": 0,
-    "language": "JavaScript",
-    "html_url": "https://github.com/Bhavish511/Trello-clone",
-    "homepage": null,
-    "image": null
-  },
-  {
     "id": 1138942373,
     "name": "iNoteBook",
     "description": "iNotebook is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to let users securely manage their personal notes on the cloud. It features a robust authentication system, re...",
@@ -91,7 +81,7 @@
   },
   {
     "id": 726540261,
-    "name": "Database-project-",
+    "name": "Downy Shoes",
     "description": "A responsive, full-featured e-commerce web application built using HTML, CSS, JavaScript, and Handlebars with Node.js backend. The project includes a shopping cart, product views, checkout process,...",
     "stargazers_count": 0,
     "language": "Handlebars",

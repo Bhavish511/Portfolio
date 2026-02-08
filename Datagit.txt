@@ -1,0 +1,10 @@
+  {
+    "id": 1142770384,
+    "name": "Trello-clone",
+    "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Bhavish511/Trello-clone",
+    "homepage": null,
+    "image": null
+  }

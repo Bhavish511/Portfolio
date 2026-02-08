@@ -235,5 +235,5 @@ export const emailConfig = {
 export const stats = {
     yearsExperience: "2+",
     projectsCompleted: "10+",
-    technologies: "25+"
+    technologies: "5+"
 };
