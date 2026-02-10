@@ -103,7 +103,7 @@ const Contact = () => {
               </motion.a>
 
               <motion.a
-                href="https://linkedin.com/in/bhavish-kumar"
+                href="https://linkedin.com/in/bhavish-kumar511"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="contact-card"
