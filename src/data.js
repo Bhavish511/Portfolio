@@ -29,7 +29,7 @@ export const personalInfo = {
     heroTypedStrings: ['Software Development', 'Web Development', 'Frontend Development', 'Backend Development', 'DevOps', 'Problem Solving'],
     socialLinks: [
         { icon: <FaGithub />, url: 'https://github.com/Bhavish511', name: 'GitHub' },
-        { icon: <FaLinkedin />, url: 'https://linkedin.com/in/bhavish-kumar', name: 'LinkedIn' },
+        { icon: <FaLinkedin />, url: 'https://linkedin.com/in/bhavish-kumar511', name: 'LinkedIn' },
         { icon: <SiLeetcode />, url: 'https://leetcode.com/Bhavish511', name: 'LeetCode' },
         // { icon: <FaTwitter />, url: 'https://twitter.com/Bhavish511', name: 'Twitter' },
         // { icon: <FaFacebook />, url: 'https://facebook.com/bhavish.kumar', name: 'Facebook' },
