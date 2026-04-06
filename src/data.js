@@ -145,7 +145,7 @@ export const experience = [
         title: 'Backend Developer',
         company: 'The Coding Buzz',
         location: 'Karachi, Pakistan',
-        period: 'June 2025 - Present',
+        period: 'June 2025 - Feb 2026',
         description: `Backend Developer focused on architectural improvements and feature development.
         • Developed a Real-time Social Media Comment Automation System integrating Facebook, Instagram, and YouTube APIs.
         • Architected a Club Management System with 40+ RESTful APIs, RBAC, and automated reporting.
